@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of CivicConnect - Complaint Management",
+  "description": "A professional public complaint management system connecting citizens, employees, and administrators with AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
